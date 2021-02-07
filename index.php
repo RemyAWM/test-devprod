@@ -30,7 +30,8 @@
 </head>
 
 <body>
-
+    <h1>Hello World!</h1>
+    <p>It is the first added feature by GitHub issue #1!</p>
 </body>
 
 </html>
